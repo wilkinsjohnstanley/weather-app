@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 const api = {
-  key: "34a47d03697b60dfc52ddf08669b67d4",
+  key: "YOURKEYHERE",
   base: "https://api.openweathermap.org/data/2.5/",
 };
 //the main application
